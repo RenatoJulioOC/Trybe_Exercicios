@@ -20,7 +20,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 2.2 - Git & GitHub - Entendendo os comandos
 - [X] 2.3 - Internet - Entendendo como ela funciona
 
-##### Bloco 3: _[Introdução à HTML e CSS]
+##### Bloco 3: _[Introdução à HTML e CSS] :hourglass_flowing_sand:
 
 - [ ] 3.1 - Introdução - HTML & CSS
 - [ ] 3.1 - HTML & CSS - Estruturas de página
@@ -78,7 +78,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [ ] 9.3 - Jest - Testes Assíncronos
 - [ ] 9.4 - Projeto - Carrinho de Compras
 
-## Desenvolvimento Front-end :heavy_check_mark:
+## Desenvolvimento Front-end
 
 ##### Bloco 10: Introdução à React
 - [ ] 10.1 - Introdução - Front-end
@@ -127,7 +127,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 ##### Bloco 18: Projeto App de Receitas
 - [ ] 18.1 - Projeto - App de Receitas
 
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+## Desenvolvimento Back-end 
 
 ##### Bloco 19: Docker: Utilizando Containers
 - [ ] 19.1 - Introdução - Back-end
