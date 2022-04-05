@@ -1,0 +1,92 @@
+body {
+    background-color: rgb(253, 237, 215);
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    color:rgb(94, 5, 5);
+    font-size: 40px;
+    text-align: center;
+}
+
+h2 {
+    font-family: monospace;
+    font-size: 40px;
+}
+
+p {
+    font-weight: 100;
+    font-size: 20px; 
+    margin-right: 20px;
+    max-width: 1500px
+}
+
+#Stomatopoda {
+    text-decoration: underline;
+    font-size: 55px;
+    color: rgb(13, 56, 13)
+}
+
+table.cientf-classif {
+    border: 1px solid black;
+    background-color: rgba(194, 239, 255, 0.959);
+}
+
+table.cientf-classif td {
+    border: 1px solid black;
+    
+}
+
+#cientific-name {
+    color: rgb(185, 35, 35)
+}
+
+.navigation ul li {
+    text-align: center;
+    display: inline-block;
+    margin-right: 90px;
+    font-size: 40px;
+    list-style: none;
+}
+
+nav {
+    text-align: center;
+}
+
+.facts img {
+    margin-left: 100px;
+    width: 450px;
+    display: inline-block;
+}
+
+.groups-and-behavior img {
+    float: right;
+    display: flex;
+    width: 250px;
+    margin-top: -220px;
+}
+
+.power-punch img {
+    float: right;
+    display: flex;
+    width: 300px;
+    margin-top: -200px;
+}
+
+.vision img {
+    float: right;
+    display: flex;
+    width: 250px;
+    margin-top: -240px;
+
+}
+
+.vision p {
+    text-align: left;
+    display: block;
+}
+
+.bold {
+    color:blue;
+}
