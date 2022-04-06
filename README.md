@@ -7,20 +7,20 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ## Introducao - Fundamentos do Desenvolvimento Web 
 
-##### Bloco 1: Introdução - _[Unix, Bash e Shell Script]_
+##### Bloco 1: Introdução - _[Unix, Bash e Shell Script]_ ✔️
 
 - [X] 1.3 - Fundamentos do Desenvolvimento Web
 - [X] 1.3 - Introdução - Unix & Shell
 - [X] 1.3 - Unix & Bash - Parte 1
 - [X] 1.4 - Unix & Bash - Parte 2
 
-##### Bloco 2: _Git, GitHub e Internet_
+##### Bloco 2: _[Git, GitHub e Internet]_ ✔️
 
 - [X] 2.1 - Git & GitHub - O que é e para que serve
 - [X] 2.2 - Git & GitHub - Entendendo os comandos
 - [X] 2.3 - Internet - Entendendo como ela funciona
 
-##### Bloco 3: _[Introdução à HTML e CSS]_
+##### Bloco 3: _[Introdução à HTML e CSS]_ ✔️
 
 - [X] 3.1 - Introdução - HTML & CSS
 - [X] 3.1 - HTML & CSS - Estruturas de página
