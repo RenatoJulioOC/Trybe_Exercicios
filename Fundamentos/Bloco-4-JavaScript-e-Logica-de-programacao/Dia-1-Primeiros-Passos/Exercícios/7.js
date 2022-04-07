@@ -1,4 +1,4 @@
-const converterNote = "99";
+const converterNote = "95";
 
 if (converterNote > 100 || converterNote < 0) {
     console.log("Nota não calculável");

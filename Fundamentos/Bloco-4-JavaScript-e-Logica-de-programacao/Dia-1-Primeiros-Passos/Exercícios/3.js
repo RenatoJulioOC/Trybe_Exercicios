@@ -1,6 +1,6 @@
-const x = 1;
-const y = 2;
-const z = 3;
+const x = 2;
+const y = 3;
+const z = 4;
 
 if(x > y && x > z) {
     console.log("(x) " + x + " é o maior");

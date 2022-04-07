@@ -1,7 +1,7 @@
 let aliquotaINSS;
 let aliquotaIR;
 
-let salarioBruto = 2000.00;
+let salarioBruto = 3000.00;
 
 if(salarioBruto <= 1556.94) {
     aliquotaINSS = salarioBruto * 0.08;

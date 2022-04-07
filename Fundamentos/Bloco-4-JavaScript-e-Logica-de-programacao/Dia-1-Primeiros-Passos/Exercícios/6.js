@@ -19,7 +19,6 @@ switch (xadrezMoves.toLowerCase()) {
     case "pawn":
         console.log("Peão: o 1º movimento permite avançar duas casas, e depois, somente uma.");
         break;
-
     default:
         console.log("Peça inválida.");
         break;

@@ -1,5 +1,5 @@
-const x = 1;
-const y = 2;
+const x = 5;
+const y = 6;
 
 if(x > y){
     console.log("x é o maior");

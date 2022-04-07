@@ -1,4 +1,4 @@
-const valor = "10";
+const valor = "9";
 
 if(valor > 0) {
     console.log("positive");

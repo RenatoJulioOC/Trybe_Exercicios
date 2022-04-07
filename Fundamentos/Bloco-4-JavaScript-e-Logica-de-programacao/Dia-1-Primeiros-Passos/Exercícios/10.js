@@ -1,5 +1,5 @@
 const custoDoProduto = 100;
-const valorDaVenda = 250;
+const valorDaVenda = 300;
 
 if (valorDaVenda >= 0 && custoDoProduto >= 0) {
     const custoTotalDoProduto = custoDoProduto * 1.2;
