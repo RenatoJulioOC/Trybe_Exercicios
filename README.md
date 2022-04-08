@@ -30,10 +30,10 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X]  3.5 - Projeto - Lessons Learned
 
 ##### Bloco 4: _[Introdução à JavaScript e Lógica de Programação]_ :hourglass_flowing_sand:
-- [ ] 4.1 - Introdução - JavaScript
-- [ ] 4.1 - JavaScript - Primeiros passos
-- [ ] 4.2 - JavaScript - Array e loop For
-- [ ] 4.3 - JavaScript - Lógica de Programação e Algoritmos
+- [X] 4.1 - Introdução - JavaScript
+- [X] 4.1 - JavaScript - Primeiros passos
+- [X] 4.2 - JavaScript - Array e loop For
+- [X] 4.3 - JavaScript - Lógica de Programação e Algoritmos
 - [ ] 4.4 - JavaScript - Objetos e funções
 - [ ] 4.5 - Projeto - Playground Functions
 
