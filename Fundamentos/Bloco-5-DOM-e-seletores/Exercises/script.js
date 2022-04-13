@@ -21,9 +21,17 @@ function squareChangingWhite() {
  squareChangingWhite(); */
 
  
-//Exercise 4
+/* //Exercise 4
 function correctTitle() {
   let title = document.getElementsByClassName('title')[0];
   title.innerHTML="Exercício 5.1 - JavaScript"
 }
 correctTitle();
+ */
+
+//Exercise 5
+function fixaText() {
+  let paragraph = document.getElementsByTagName('p')[0];
+  paragraph.innerHTML = paragraph.innerHTML.toUpperCase();
+ }  
+  fixaText();
