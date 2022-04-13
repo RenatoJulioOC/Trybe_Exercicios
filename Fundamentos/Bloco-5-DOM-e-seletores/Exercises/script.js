@@ -13,10 +13,17 @@ function squareChangingGreen() {
 squareChangingGreen(); */
 
 
-//Exercise 3
+/* //Exercise 3
 function squareChangingWhite() {
   let squareRed = document.getElementsByClassName('center-content')[0];
   squareRed.style.background = "white";
 }
- squareChangingWhite();
+ squareChangingWhite(); */
 
+ 
+//Exercise 4
+function correctTitle() {
+  let title = document.getElementsByClassName('title')[0];
+  title.innerHTML="Exercício 5.1 - JavaScript"
+}
+correctTitle();
