@@ -7,20 +7,20 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ## Introducao - Fundamentos do Desenvolvimento Web 
 
-##### Bloco 1: Introdução - _[Unix, Bash e Shell Script]_           ✔️
+##### Bloco 1: Introdução - _[Unix, Bash e Shell Script]_ ✔️
 
 - [X] 1.3 - Fundamentos do Desenvolvimento Web
 - [X] 1.3 - Introdução - Unix & Shell
 - [X] 1.3 - Unix & Bash - Parte 1
 - [X] 1.4 - Unix & Bash - Parte 2
 
-##### Bloco 2: _[Git, GitHub e Internet]_                           ✔️
+##### Bloco 2: _[Git, GitHub e Internet]_ ✔️
 
 - [X] 2.1 - Git & GitHub - O que é e para que serve
 - [X] 2.2 - Git & GitHub - Entendendo os comandos
 - [X] 2.3 - Internet - Entendendo como ela funciona
 
-##### Bloco 3: _[Introdução à HTML e CSS]_                          ✔️
+##### Bloco 3: _[Introdução à HTML e CSS]_  ✔️
 
 - [X] 3.1 - Introdução - HTML & CSS
 - [X] 3.1 - HTML & CSS - Estruturas de página
@@ -29,16 +29,16 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X]  3.4 - HTML Semântico
 - [X]  3.5 - Projeto - Lessons Learned
 
-##### Bloco 4: _[Introdução à JavaScript e Lógica de Programação]_ :hourglass_flowing_sand:
+##### Bloco 4: _[Introdução à JavaScript e Lógica de Programação]_ ✔️
 - [X] 4.1 - Introdução - JavaScript
 - [X] 4.1 - JavaScript - Primeiros passos
 - [X] 4.2 - JavaScript - Array e loop For
 - [X] 4.3 - JavaScript - Lógica de Programação e Algoritmos
-- [ ] 4.4 - JavaScript - Objetos e funções
-- [ ] 4.5 - Projeto - Playground Functions
+- [X] 4.4 - JavaScript - Objetos e funções
+- [X] 4.5 - Projeto - Playground Functions
 
-##### Bloco 5: _[JavaScript: DOM, Eventos e Web Storage]_
-- [ ] 5.1 - JavaScript - DOM e seletores
+##### Bloco 5: _[JavaScript: DOM, Eventos e Web Storage]_ :hourglass_flowing_sand:
+- [X] 5.1 - JavaScript - DOM e seletores
 - [ ] 5.2 - JavaScript - Trabalhando com elementos
 - [ ] 5.3 - JavaScript - Eventos
 - [ ] 5.4 - JavaScript - Web Storage
