@@ -6,4 +6,3 @@ for (let i = 1; i <= 25; i++) {
 for (let i = 0; i < numbers.length; i += 1) {
     console.log(numbers[i] / 2);
 }
-
